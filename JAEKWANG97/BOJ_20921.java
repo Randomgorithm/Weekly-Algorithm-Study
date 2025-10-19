@@ -1,26 +1,43 @@
-package boj;
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.io.OutputStreamWriter;
+import java.util.StringTokenizer;
 
-import java.util.*;
+public class Main {
+    public static void main(String[] args) throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
+        StringTokenizer st = new StringTokenizer(br.readLine());
 
-public class BOJ_20921 {
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        int N = sc.nextInt();
-        long K = sc.nextLong();
+        int N = Integer.parseInt(st.nextToken());
+        int K = Integer.parseInt(st.nextToken());
 
-        List<Integer> list = new ArrayList<>();
-        for (int i = 1; i <= N; i++) list.add(i);
+        int currentSum = 0;
+        int currentIndex = N - 1;
+        boolean[] selectedNumbers = new boolean[N];
 
-        List<Integer> result = new ArrayList<>();
-        for (int i = N; i >= 1; i--) {
-            long move = Math.min(K, i - 1);
-            result.add((int) (result.size() - move), i);
-            K -= move;
+        while (currentIndex > 0) {
+            if (currentSum + currentIndex <= K) {
+                currentSum += currentIndex;
+                selectedNumbers[currentIndex] = true;
+            }
+            currentIndex--;
         }
 
+        for (int i = N - 1; i >= 0; i--) {
+            if (selectedNumbers[i]) {
+                bw.write(Integer.toString(i + 1) + " ");
+            }
+        }
         for (int i = 0; i < N; i++) {
-            System.out.print(result.get(i) + " ");
+            if (!selectedNumbers[i]) {
+                bw.write(Integer.toString(i + 1) + " ");
+            }
         }
+
+        bw.flush();
+        bw.close();
     }
 }
-
