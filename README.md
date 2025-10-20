@@ -1,18 +1,18 @@
-# 🔥 이번 주 알고리즘 문제 (2025-10-13 업데이트)
+# 🔥 이번 주 알고리즘 문제 (2025-10-20 업데이트)
 
 ### 💥 Hard
-- <img src="https://static.solved.ac/tier_small/18.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[2315. 가로등 끄기](https://www.acmicpc.net/problem/2315)
+- <img src="https://static.solved.ac/tier_small/17.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[13506. 카멜레온 부분 문자열](https://www.acmicpc.net/problem/13506)
 
 
 ### ⚙️ Normal
-- <img src="https://static.solved.ac/tier_small/15.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[2042. 구간 합 구하기](https://www.acmicpc.net/problem/2042)
-- <img src="https://static.solved.ac/tier_small/15.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[1194. 달이 차오른다, 가자.](https://www.acmicpc.net/problem/1194)
-- <img src="https://static.solved.ac/tier_small/13.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[23288. 주사위 굴리기 2](https://www.acmicpc.net/problem/23288)
+- <img src="https://static.solved.ac/tier_small/13.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[5021. 왕위 계승](https://www.acmicpc.net/problem/5021)
+- <img src="https://static.solved.ac/tier_small/12.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[16973. 직사각형 탈출](https://www.acmicpc.net/problem/16973)
+- <img src="https://static.solved.ac/tier_small/12.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[14718. 용감한 용사 진수](https://www.acmicpc.net/problem/14718)
 
 
 ### 🍀 Easy
-- <img src="https://static.solved.ac/tier_small/10.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[20921. 그렇고 그런 사이](https://www.acmicpc.net/problem/20921)
-- <img src="https://static.solved.ac/tier_small/10.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[14651. 걷다보니 신천역 삼 (Large)](https://www.acmicpc.net/problem/14651)
+- <img src="https://static.solved.ac/tier_small/10.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[2872. 우리집엔 도서관이 있어](https://www.acmicpc.net/problem/2872)
+- <img src="https://static.solved.ac/tier_small/9.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[10252. 그리드 그래프](https://www.acmicpc.net/problem/10252)
 
 
 # 🔥 **Weekly 알고리즘 스터디**
