@@ -1,18 +1,18 @@
-# 🔥 이번 주 알고리즘 문제 (2025-10-20 업데이트)
+# 🔥 이번 주 알고리즘 문제 (2025-10-27 업데이트)
 
 ### 💥 Hard
-- <img src="https://static.solved.ac/tier_small/17.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[13506. 카멜레온 부분 문자열](https://www.acmicpc.net/problem/13506)
+- <img src="https://static.solved.ac/tier_small/16.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[10258. 스위치 배열](https://www.acmicpc.net/problem/10258)
 
 
 ### ⚙️ Normal
-- <img src="https://static.solved.ac/tier_small/13.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[5021. 왕위 계승](https://www.acmicpc.net/problem/5021)
-- <img src="https://static.solved.ac/tier_small/12.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[16973. 직사각형 탈출](https://www.acmicpc.net/problem/16973)
-- <img src="https://static.solved.ac/tier_small/12.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[14718. 용감한 용사 진수](https://www.acmicpc.net/problem/14718)
+- <img src="https://static.solved.ac/tier_small/15.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[6439. 교차](https://www.acmicpc.net/problem/6439)
+- <img src="https://static.solved.ac/tier_small/13.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[1099. 알 수 없는 문장](https://www.acmicpc.net/problem/1099)
+- <img src="https://static.solved.ac/tier_small/12.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[9082. 지뢰찾기](https://www.acmicpc.net/problem/9082)
 
 
 ### 🍀 Easy
-- <img src="https://static.solved.ac/tier_small/10.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[2872. 우리집엔 도서관이 있어](https://www.acmicpc.net/problem/2872)
-- <img src="https://static.solved.ac/tier_small/9.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[10252. 그리드 그래프](https://www.acmicpc.net/problem/10252)
+- <img src="https://static.solved.ac/tier_small/7.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[16162. 가희와 3단 고음](https://www.acmicpc.net/problem/16162)
+- <img src="https://static.solved.ac/tier_small/7.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[15736. 청기 백기](https://www.acmicpc.net/problem/15736)
 
 
 # 🔥 **Weekly 알고리즘 스터디**
