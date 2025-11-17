@@ -1,18 +1,18 @@
-# 🔥 이번 주 알고리즘 문제 (2025-11-10 업데이트)
+# 🔥 이번 주 알고리즘 문제 (2025-11-17 업데이트)
 
 ### 💥 Hard
-- <img src="https://static.solved.ac/tier_small/17.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[13907. 세금](https://www.acmicpc.net/problem/13907)
+- <img src="https://static.solved.ac/tier_small/16.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[1480. 보석 모으기](https://www.acmicpc.net/problem/1480)
 
 
 ### ⚙️ Normal
-- <img src="https://static.solved.ac/tier_small/14.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[1938. 통나무 옮기기](https://www.acmicpc.net/problem/1938)
 - <img src="https://static.solved.ac/tier_small/13.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[14890. 경사로](https://www.acmicpc.net/problem/14890)
-- <img src="https://static.solved.ac/tier_small/12.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[1958. LCS 3](https://www.acmicpc.net/problem/1958)
+- <img src="https://static.solved.ac/tier_small/11.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[3933. 라그랑주의 네 제곱수 정리](https://www.acmicpc.net/problem/3933)
+- <img src="https://static.solved.ac/tier_small/11.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[23048. 자연수 색칠하기](https://www.acmicpc.net/problem/23048)
 
 
 ### 🍀 Easy
-- <img src="https://static.solved.ac/tier_small/8.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[10974. 모든 순열](https://www.acmicpc.net/problem/10974)
-- <img src="https://static.solved.ac/tier_small/7.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[2003. 수들의 합 2](https://www.acmicpc.net/problem/2003)
+- <img src="https://static.solved.ac/tier_small/6.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[1996. 지뢰 찾기](https://www.acmicpc.net/problem/1996)
+- <img src="https://static.solved.ac/tier_small/6.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[11723. 집합](https://www.acmicpc.net/problem/11723)
 
 
 # 🔥 **Weekly 알고리즘 스터디**
