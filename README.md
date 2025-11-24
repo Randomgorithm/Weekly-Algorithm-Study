@@ -1,18 +1,18 @@
-# 🔥 이번 주 알고리즘 문제 (2025-11-17 업데이트)
+# 🔥 이번 주 알고리즘 문제 (2025-11-24 업데이트)
 
 ### 💥 Hard
-- <img src="https://static.solved.ac/tier_small/16.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[1480. 보석 모으기](https://www.acmicpc.net/problem/1480)
+- <img src="https://static.solved.ac/tier_small/16.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[8984. 막대기](https://www.acmicpc.net/problem/8984)
 
 
 ### ⚙️ Normal
-- <img src="https://static.solved.ac/tier_small/13.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[14890. 경사로](https://www.acmicpc.net/problem/14890)
-- <img src="https://static.solved.ac/tier_small/11.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[3933. 라그랑주의 네 제곱수 정리](https://www.acmicpc.net/problem/3933)
-- <img src="https://static.solved.ac/tier_small/11.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[23048. 자연수 색칠하기](https://www.acmicpc.net/problem/23048)
+- <img src="https://static.solved.ac/tier_small/15.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[19237. 어른 상어](https://www.acmicpc.net/problem/19237)
+- <img src="https://static.solved.ac/tier_small/14.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[2461. 대표 선수](https://www.acmicpc.net/problem/2461)
+- <img src="https://static.solved.ac/tier_small/12.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[2036. 수열의 점수](https://www.acmicpc.net/problem/2036)
 
 
 ### 🍀 Easy
-- <img src="https://static.solved.ac/tier_small/6.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[1996. 지뢰 찾기](https://www.acmicpc.net/problem/1996)
-- <img src="https://static.solved.ac/tier_small/6.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[11723. 집합](https://www.acmicpc.net/problem/11723)
+- <img src="https://static.solved.ac/tier_small/6.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[2535. 아시아 정보올림피아드](https://www.acmicpc.net/problem/2535)
+- <img src="https://static.solved.ac/tier_small/6.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[26005. 나뭇잎 학회](https://www.acmicpc.net/problem/26005)
 
 
 # 🔥 **Weekly 알고리즘 스터디**
