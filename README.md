@@ -1,18 +1,18 @@
-# 🔥 이번 주 알고리즘 문제 (2025-12-01 업데이트)
+# 🔥 이번 주 알고리즘 문제 (2025-12-08 업데이트)
 
 ### 💥 Hard
-- <img src="https://static.solved.ac/tier_small/18.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[4792. 레드 블루 스패닝 트리](https://www.acmicpc.net/problem/4792)
+- <img src="https://static.solved.ac/tier_small/17.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[17412. 도시 왕복하기 1](https://www.acmicpc.net/problem/17412)
 
 
 ### ⚙️ Normal
-- <img src="https://static.solved.ac/tier_small/14.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[1750. 서로소의 개수](https://www.acmicpc.net/problem/1750)
-- <img src="https://static.solved.ac/tier_small/13.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[14391. 종이 조각](https://www.acmicpc.net/problem/14391)
-- <img src="https://static.solved.ac/tier_small/11.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[4233. 가짜소수](https://www.acmicpc.net/problem/4233)
+- <img src="https://static.solved.ac/tier_small/15.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[12837. 가계부 (Hard)](https://www.acmicpc.net/problem/12837)
+- <img src="https://static.solved.ac/tier_small/11.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[21773. 가희와 프로세스 1](https://www.acmicpc.net/problem/21773)
+- <img src="https://static.solved.ac/tier_small/11.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[20500. Ezreal 여눈부터 가네 ㅈㅈ](https://www.acmicpc.net/problem/20500)
 
 
 ### 🍀 Easy
-- <img src="https://static.solved.ac/tier_small/8.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[24516. 잘 알려진 수열 구하기](https://www.acmicpc.net/problem/24516)
-- <img src="https://static.solved.ac/tier_small/7.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[11815. 짝수? 홀수?](https://www.acmicpc.net/problem/11815)
+- <img src="https://static.solved.ac/tier_small/7.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[20004. 베스킨라빈스 31](https://www.acmicpc.net/problem/20004)
+- <img src="https://static.solved.ac/tier_small/7.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[11558. The Game of Death](https://www.acmicpc.net/problem/11558)
 
 
 # 🔥 **Weekly 알고리즘 스터디**
