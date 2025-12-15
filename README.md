@@ -1,18 +1,18 @@
-# 🔥 이번 주 알고리즘 문제 (2025-12-08 업데이트)
+# 🔥 이번 주 알고리즘 문제 (2025-12-15 업데이트)
 
 ### 💥 Hard
-- <img src="https://static.solved.ac/tier_small/17.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[17412. 도시 왕복하기 1](https://www.acmicpc.net/problem/17412)
+- <img src="https://static.solved.ac/tier_small/16.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[1761. 정점들의 거리](https://www.acmicpc.net/problem/1761)
 
 
 ### ⚙️ Normal
-- <img src="https://static.solved.ac/tier_small/15.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[12837. 가계부 (Hard)](https://www.acmicpc.net/problem/12837)
-- <img src="https://static.solved.ac/tier_small/11.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[21773. 가희와 프로세스 1](https://www.acmicpc.net/problem/21773)
-- <img src="https://static.solved.ac/tier_small/11.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[20500. Ezreal 여눈부터 가네 ㅈㅈ](https://www.acmicpc.net/problem/20500)
+- <img src="https://static.solved.ac/tier_small/14.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[10800. 컬러볼](https://www.acmicpc.net/problem/10800)
+- <img src="https://static.solved.ac/tier_small/12.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[1963. 소수 경로](https://www.acmicpc.net/problem/1963)
+- <img src="https://static.solved.ac/tier_small/12.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[11664. 선분과 점](https://www.acmicpc.net/problem/11664)
 
 
 ### 🍀 Easy
-- <img src="https://static.solved.ac/tier_small/7.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[20004. 베스킨라빈스 31](https://www.acmicpc.net/problem/20004)
-- <img src="https://static.solved.ac/tier_small/7.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[11558. The Game of Death](https://www.acmicpc.net/problem/11558)
+- <img src="https://static.solved.ac/tier_small/7.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[1337. 올바른 배열](https://www.acmicpc.net/problem/1337)
+- <img src="https://static.solved.ac/tier_small/6.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[14490. 백대열](https://www.acmicpc.net/problem/14490)
 
 
 # 🔥 **Weekly 알고리즘 스터디**
