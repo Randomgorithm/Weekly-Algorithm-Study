@@ -1,18 +1,18 @@
-# 🔥 이번 주 알고리즘 문제 (2025-12-15 업데이트)
+# 🔥 이번 주 알고리즘 문제 (2025-12-22 업데이트)
 
 ### 💥 Hard
-- <img src="https://static.solved.ac/tier_small/16.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[1761. 정점들의 거리](https://www.acmicpc.net/problem/1761)
+- <img src="https://static.solved.ac/tier_small/19.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[2549. 루빅의 사각형](https://www.acmicpc.net/problem/2549)
 
 
 ### ⚙️ Normal
-- <img src="https://static.solved.ac/tier_small/14.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[10800. 컬러볼](https://www.acmicpc.net/problem/10800)
-- <img src="https://static.solved.ac/tier_small/12.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[1963. 소수 경로](https://www.acmicpc.net/problem/1963)
-- <img src="https://static.solved.ac/tier_small/12.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[11664. 선분과 점](https://www.acmicpc.net/problem/11664)
+- <img src="https://static.solved.ac/tier_small/12.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[24553. 팰린드롬 게임](https://www.acmicpc.net/problem/24553)
+- <img src="https://static.solved.ac/tier_small/11.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[19598. 최소 회의실 개수](https://www.acmicpc.net/problem/19598)
+- <img src="https://static.solved.ac/tier_small/11.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[1239. 차트](https://www.acmicpc.net/problem/1239)
 
 
 ### 🍀 Easy
-- <img src="https://static.solved.ac/tier_small/7.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[1337. 올바른 배열](https://www.acmicpc.net/problem/1337)
-- <img src="https://static.solved.ac/tier_small/6.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[14490. 백대열](https://www.acmicpc.net/problem/14490)
+- <img src="https://static.solved.ac/tier_small/10.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[17828. 문자열 화폐](https://www.acmicpc.net/problem/17828)
+- <img src="https://static.solved.ac/tier_small/9.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[2290. LCD Test](https://www.acmicpc.net/problem/2290)
 
 
 # 🔥 **Weekly 알고리즘 스터디**
