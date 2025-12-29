@@ -1,18 +1,18 @@
-# 🔥 이번 주 알고리즘 문제 (2025-12-22 업데이트)
+# 🔥 이번 주 알고리즘 문제 (2025-12-29 업데이트)
 
 ### 💥 Hard
-- <img src="https://static.solved.ac/tier_small/19.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[2549. 루빅의 사각형](https://www.acmicpc.net/problem/2549)
+- <img src="https://static.solved.ac/tier_small/20.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[12728. n제곱 계산](https://www.acmicpc.net/problem/12728)
 
 
 ### ⚙️ Normal
-- <img src="https://static.solved.ac/tier_small/12.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[24553. 팰린드롬 게임](https://www.acmicpc.net/problem/24553)
-- <img src="https://static.solved.ac/tier_small/11.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[19598. 최소 회의실 개수](https://www.acmicpc.net/problem/19598)
-- <img src="https://static.solved.ac/tier_small/11.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[1239. 차트](https://www.acmicpc.net/problem/1239)
+- <img src="https://static.solved.ac/tier_small/13.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[2812. 크게 만들기](https://www.acmicpc.net/problem/2812)
+- <img src="https://static.solved.ac/tier_small/12.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[25308. 방사형 그래프](https://www.acmicpc.net/problem/25308)
+- <img src="https://static.solved.ac/tier_small/12.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[16973. 직사각형 탈출](https://www.acmicpc.net/problem/16973)
 
 
 ### 🍀 Easy
-- <img src="https://static.solved.ac/tier_small/10.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[17828. 문자열 화폐](https://www.acmicpc.net/problem/17828)
-- <img src="https://static.solved.ac/tier_small/9.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[2290. LCD Test](https://www.acmicpc.net/problem/2290)
+- <img src="https://static.solved.ac/tier_small/10.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[12101. 1, 2, 3 더하기 2](https://www.acmicpc.net/problem/12101)
+- <img src="https://static.solved.ac/tier_small/10.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[2468. 안전 영역](https://www.acmicpc.net/problem/2468)
 
 
 # 🔥 **Weekly 알고리즘 스터디**
