@@ -1,18 +1,18 @@
-# 🔥 이번 주 알고리즘 문제 (2025-12-29 업데이트)
+# 🔥 이번 주 알고리즘 문제 (2026-01-05 업데이트)
 
 ### 💥 Hard
-- <img src="https://static.solved.ac/tier_small/20.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[12728. n제곱 계산](https://www.acmicpc.net/problem/12728)
+- <img src="https://static.solved.ac/tier_small/16.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[8984. 막대기](https://www.acmicpc.net/problem/8984)
 
 
 ### ⚙️ Normal
-- <img src="https://static.solved.ac/tier_small/13.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[2812. 크게 만들기](https://www.acmicpc.net/problem/2812)
-- <img src="https://static.solved.ac/tier_small/12.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[25308. 방사형 그래프](https://www.acmicpc.net/problem/25308)
-- <img src="https://static.solved.ac/tier_small/12.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[16973. 직사각형 탈출](https://www.acmicpc.net/problem/16973)
+- <img src="https://static.solved.ac/tier_small/13.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[23288. 주사위 굴리기 2](https://www.acmicpc.net/problem/23288)
+- <img src="https://static.solved.ac/tier_small/12.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[1339. 단어 수학](https://www.acmicpc.net/problem/1339)
+- <img src="https://static.solved.ac/tier_small/11.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[5904. Moo 게임](https://www.acmicpc.net/problem/5904)
 
 
 ### 🍀 Easy
-- <img src="https://static.solved.ac/tier_small/10.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[12101. 1, 2, 3 더하기 2](https://www.acmicpc.net/problem/12101)
-- <img src="https://static.solved.ac/tier_small/10.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[2468. 안전 영역](https://www.acmicpc.net/problem/2468)
+- <img src="https://static.solved.ac/tier_small/8.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[9375. 패션왕 신해빈](https://www.acmicpc.net/problem/9375)
+- <img src="https://static.solved.ac/tier_small/7.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[4921. 나무 블록](https://www.acmicpc.net/problem/4921)
 
 
 # 🔥 **Weekly 알고리즘 스터디**
