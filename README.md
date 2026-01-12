@@ -1,18 +1,18 @@
-# 🔥 이번 주 알고리즘 문제 (2026-01-05 업데이트)
+# 🔥 이번 주 알고리즘 문제 (2026-01-12 업데이트)
 
 ### 💥 Hard
-- <img src="https://static.solved.ac/tier_small/16.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[8984. 막대기](https://www.acmicpc.net/problem/8984)
+- <img src="https://static.solved.ac/tier_small/18.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[1514. 자물쇠](https://www.acmicpc.net/problem/1514)
 
 
 ### ⚙️ Normal
-- <img src="https://static.solved.ac/tier_small/13.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[23288. 주사위 굴리기 2](https://www.acmicpc.net/problem/23288)
-- <img src="https://static.solved.ac/tier_small/12.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[1339. 단어 수학](https://www.acmicpc.net/problem/1339)
-- <img src="https://static.solved.ac/tier_small/11.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[5904. Moo 게임](https://www.acmicpc.net/problem/5904)
+- <img src="https://static.solved.ac/tier_small/12.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[2602. 돌다리 건너기](https://www.acmicpc.net/problem/2602)
+- <img src="https://static.solved.ac/tier_small/11.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[7569. 토마토](https://www.acmicpc.net/problem/7569)
+- <img src="https://static.solved.ac/tier_small/11.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[25194. 결전의 금요일](https://www.acmicpc.net/problem/25194)
 
 
 ### 🍀 Easy
-- <img src="https://static.solved.ac/tier_small/8.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[9375. 패션왕 신해빈](https://www.acmicpc.net/problem/9375)
-- <img src="https://static.solved.ac/tier_small/7.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[4921. 나무 블록](https://www.acmicpc.net/problem/4921)
+- <img src="https://static.solved.ac/tier_small/9.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[10164. 격자상의 경로](https://www.acmicpc.net/problem/10164)
+- <img src="https://static.solved.ac/tier_small/8.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[20920. 영단어 암기는 괴로워](https://www.acmicpc.net/problem/20920)
 
 
 # 🔥 **Weekly 알고리즘 스터디**
