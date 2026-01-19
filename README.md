@@ -1,18 +1,18 @@
-# 🔥 이번 주 알고리즘 문제 (2026-01-12 업데이트)
+# 🔥 이번 주 알고리즘 문제 (2026-01-19 업데이트)
 
 ### 💥 Hard
-- <img src="https://static.solved.ac/tier_small/18.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[1514. 자물쇠](https://www.acmicpc.net/problem/1514)
+- <img src="https://static.solved.ac/tier_small/16.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[22940. 선형 연립 방정식](https://www.acmicpc.net/problem/22940)
 
 
 ### ⚙️ Normal
-- <img src="https://static.solved.ac/tier_small/12.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[2602. 돌다리 건너기](https://www.acmicpc.net/problem/2602)
-- <img src="https://static.solved.ac/tier_small/11.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[7569. 토마토](https://www.acmicpc.net/problem/7569)
-- <img src="https://static.solved.ac/tier_small/11.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[25194. 결전의 금요일](https://www.acmicpc.net/problem/25194)
+- <img src="https://static.solved.ac/tier_small/13.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[2638. 치즈](https://www.acmicpc.net/problem/2638)
+- <img src="https://static.solved.ac/tier_small/12.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[9082. 지뢰찾기](https://www.acmicpc.net/problem/9082)
+- <img src="https://static.solved.ac/tier_small/11.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[9660. 돌 게임 6](https://www.acmicpc.net/problem/9660)
 
 
 ### 🍀 Easy
-- <img src="https://static.solved.ac/tier_small/9.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[10164. 격자상의 경로](https://www.acmicpc.net/problem/10164)
-- <img src="https://static.solved.ac/tier_small/8.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[20920. 영단어 암기는 괴로워](https://www.acmicpc.net/problem/20920)
+- <img src="https://static.solved.ac/tier_small/10.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[1389. 케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389)
+- <img src="https://static.solved.ac/tier_small/6.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[16969. 차량 번호판 2](https://www.acmicpc.net/problem/16969)
 
 
 # 🔥 **Weekly 알고리즘 스터디**
