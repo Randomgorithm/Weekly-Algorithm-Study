@@ -1,18 +1,18 @@
-# 🔥 이번 주 알고리즘 문제 (2026-01-19 업데이트)
+# 🔥 이번 주 알고리즘 문제 (2026-01-26 업데이트)
 
 ### 💥 Hard
-- <img src="https://static.solved.ac/tier_small/16.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[22940. 선형 연립 방정식](https://www.acmicpc.net/problem/22940)
+- <img src="https://static.solved.ac/tier_small/19.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[3295. 단방향 링크 네트워크](https://www.acmicpc.net/problem/3295)
 
 
 ### ⚙️ Normal
-- <img src="https://static.solved.ac/tier_small/13.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[2638. 치즈](https://www.acmicpc.net/problem/2638)
-- <img src="https://static.solved.ac/tier_small/12.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[9082. 지뢰찾기](https://www.acmicpc.net/problem/9082)
-- <img src="https://static.solved.ac/tier_small/11.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[9660. 돌 게임 6](https://www.acmicpc.net/problem/9660)
+- <img src="https://static.solved.ac/tier_small/14.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[5214. 환승](https://www.acmicpc.net/problem/5214)
+- <img src="https://static.solved.ac/tier_small/13.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[2234. 성곽](https://www.acmicpc.net/problem/2234)
+- <img src="https://static.solved.ac/tier_small/12.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[16120. PPAP](https://www.acmicpc.net/problem/16120)
 
 
 ### 🍀 Easy
-- <img src="https://static.solved.ac/tier_small/10.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[1389. 케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389)
-- <img src="https://static.solved.ac/tier_small/6.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[16969. 차량 번호판 2](https://www.acmicpc.net/problem/16969)
+- <img src="https://static.solved.ac/tier_small/9.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[1699. 제곱수의 합](https://www.acmicpc.net/problem/1699)
+- <img src="https://static.solved.ac/tier_small/9.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[11051. 이항 계수 2](https://www.acmicpc.net/problem/11051)
 
 
 # 🔥 **Weekly 알고리즘 스터디**
