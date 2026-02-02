@@ -1,18 +1,18 @@
-# 🔥 이번 주 알고리즘 문제 (2026-01-26 업데이트)
+# 🔥 이번 주 알고리즘 문제 (2026-02-02 업데이트)
 
 ### 💥 Hard
-- <img src="https://static.solved.ac/tier_small/19.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[3295. 단방향 링크 네트워크](https://www.acmicpc.net/problem/3295)
+- <img src="https://static.solved.ac/tier_small/18.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[11873. 최대 직사각형](https://www.acmicpc.net/problem/11873)
 
 
 ### ⚙️ Normal
-- <img src="https://static.solved.ac/tier_small/14.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[5214. 환승](https://www.acmicpc.net/problem/5214)
-- <img src="https://static.solved.ac/tier_small/13.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[2234. 성곽](https://www.acmicpc.net/problem/2234)
-- <img src="https://static.solved.ac/tier_small/12.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[16120. PPAP](https://www.acmicpc.net/problem/16120)
+- <img src="https://static.solved.ac/tier_small/14.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[1781. 컵라면](https://www.acmicpc.net/problem/1781)
+- <img src="https://static.solved.ac/tier_small/14.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[21276. 계보 복원가 호석](https://www.acmicpc.net/problem/21276)
+- <img src="https://static.solved.ac/tier_small/12.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[25682. 체스판 다시 칠하기 2](https://www.acmicpc.net/problem/25682)
 
 
 ### 🍀 Easy
-- <img src="https://static.solved.ac/tier_small/9.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[1699. 제곱수의 합](https://www.acmicpc.net/problem/1699)
-- <img src="https://static.solved.ac/tier_small/9.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[11051. 이항 계수 2](https://www.acmicpc.net/problem/11051)
+- <img src="https://static.solved.ac/tier_small/7.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[14244. 트리 만들기](https://www.acmicpc.net/problem/14244)
+- <img src="https://static.solved.ac/tier_small/6.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[4659. 비밀번호 발음하기](https://www.acmicpc.net/problem/4659)
 
 
 # 🔥 **Weekly 알고리즘 스터디**
