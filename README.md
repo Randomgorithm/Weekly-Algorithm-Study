@@ -1,18 +1,18 @@
-# 🔥 이번 주 알고리즘 문제 (2026-02-02 업데이트)
+# 🔥 이번 주 알고리즘 문제 (2026-02-09 업데이트)
 
 ### 💥 Hard
-- <img src="https://static.solved.ac/tier_small/18.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[11873. 최대 직사각형](https://www.acmicpc.net/problem/11873)
+- <img src="https://static.solved.ac/tier_small/17.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[5012. 불만 정렬](https://www.acmicpc.net/problem/5012)
 
 
 ### ⚙️ Normal
-- <img src="https://static.solved.ac/tier_small/14.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[1781. 컵라면](https://www.acmicpc.net/problem/1781)
-- <img src="https://static.solved.ac/tier_small/14.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[21276. 계보 복원가 호석](https://www.acmicpc.net/problem/21276)
-- <img src="https://static.solved.ac/tier_small/12.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[25682. 체스판 다시 칠하기 2](https://www.acmicpc.net/problem/25682)
+- <img src="https://static.solved.ac/tier_small/14.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[2211. 네트워크 복구](https://www.acmicpc.net/problem/2211)
+- <img src="https://static.solved.ac/tier_small/13.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[15683. 감시](https://www.acmicpc.net/problem/15683)
+- <img src="https://static.solved.ac/tier_small/11.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[16926. 배열 돌리기 1](https://www.acmicpc.net/problem/16926)
 
 
 ### 🍀 Easy
-- <img src="https://static.solved.ac/tier_small/7.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[14244. 트리 만들기](https://www.acmicpc.net/problem/14244)
-- <img src="https://static.solved.ac/tier_small/6.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[4659. 비밀번호 발음하기](https://www.acmicpc.net/problem/4659)
+- <img src="https://static.solved.ac/tier_small/8.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[12847. 꿀 아르바이트](https://www.acmicpc.net/problem/12847)
+- <img src="https://static.solved.ac/tier_small/7.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[1969. DNA](https://www.acmicpc.net/problem/1969)
 
 
 # 🔥 **Weekly 알고리즘 스터디**
