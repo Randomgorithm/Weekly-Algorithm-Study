@@ -1,18 +1,18 @@
-# 🔥 이번 주 알고리즘 문제 (2026-02-16 업데이트)
+# 🔥 이번 주 알고리즘 문제 (2026-02-23 업데이트)
 
 ### 💥 Hard
-- <img src="https://static.solved.ac/tier_small/20.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[2373. Fibonacci Game](https://www.acmicpc.net/problem/2373)
+- <img src="https://static.solved.ac/tier_small/17.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[14939. 불 끄기](https://www.acmicpc.net/problem/14939)
 
 
 ### ⚙️ Normal
-- <img src="https://static.solved.ac/tier_small/13.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[8972. 미친 아두이노](https://www.acmicpc.net/problem/8972)
-- <img src="https://static.solved.ac/tier_small/12.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[2073. 수도배관공사](https://www.acmicpc.net/problem/2073)
-- <img src="https://static.solved.ac/tier_small/11.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[17225. 세훈이의 선물가게](https://www.acmicpc.net/problem/17225)
+- <img src="https://static.solved.ac/tier_small/13.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[9694. 무엇을 아느냐가 아니라 누구를 아느냐가 문제다](https://www.acmicpc.net/problem/9694)
+- <img src="https://static.solved.ac/tier_small/12.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[1253. 좋다](https://www.acmicpc.net/problem/1253)
+- <img src="https://static.solved.ac/tier_small/12.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[17069. 파이프 옮기기 2](https://www.acmicpc.net/problem/17069)
 
 
 ### 🍀 Easy
-- <img src="https://static.solved.ac/tier_small/7.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[11399. ATM](https://www.acmicpc.net/problem/11399)
-- <img src="https://static.solved.ac/tier_small/6.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[5555. 반지](https://www.acmicpc.net/problem/5555)
+- <img src="https://static.solved.ac/tier_small/10.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[1149. RGB거리](https://www.acmicpc.net/problem/1149)
+- <img src="https://static.solved.ac/tier_small/8.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[12789. 도키도키 간식드리미](https://www.acmicpc.net/problem/12789)
 
 
 # 🔥 **Weekly 알고리즘 스터디**
