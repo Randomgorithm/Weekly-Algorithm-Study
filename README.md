@@ -1,18 +1,18 @@
-# 🔥 이번 주 알고리즘 문제 (2026-03-09 업데이트)
+# 🔥 이번 주 알고리즘 문제 (2026-03-16 업데이트)
 
 ### 💥 Hard
-- <img src="https://static.solved.ac/tier_small/18.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[13537. 수열과 쿼리 1](https://www.acmicpc.net/problem/13537)
+- <img src="https://static.solved.ac/tier_small/18.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[12844. XOR](https://www.acmicpc.net/problem/12844)
 
 
 ### ⚙️ Normal
-- <img src="https://static.solved.ac/tier_small/14.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[2611. 자동차경주](https://www.acmicpc.net/problem/2611)
-- <img src="https://static.solved.ac/tier_small/13.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[1379. 강의실 2](https://www.acmicpc.net/problem/1379)
-- <img src="https://static.solved.ac/tier_small/12.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[2448. 별 찍기 - 11](https://www.acmicpc.net/problem/2448)
+- <img src="https://static.solved.ac/tier_small/13.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[13904. 과제](https://www.acmicpc.net/problem/13904)
+- <img src="https://static.solved.ac/tier_small/12.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[14718. 용감한 용사 진수](https://www.acmicpc.net/problem/14718)
+- <img src="https://static.solved.ac/tier_small/11.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[16938. 캠프 준비](https://www.acmicpc.net/problem/16938)
 
 
 ### 🍀 Easy
-- <img src="https://static.solved.ac/tier_small/8.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[2548. 대표 자연수](https://www.acmicpc.net/problem/2548)
-- <img src="https://static.solved.ac/tier_small/8.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[25379. 피하자](https://www.acmicpc.net/problem/25379)
+- <img src="https://static.solved.ac/tier_small/10.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[15723. n단 논법](https://www.acmicpc.net/problem/15723)
+- <img src="https://static.solved.ac/tier_small/10.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[1495. 기타리스트](https://www.acmicpc.net/problem/1495)
 
 
 # 🔥 **Weekly 알고리즘 스터디**
