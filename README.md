@@ -1,18 +1,18 @@
-# 🔥 이번 주 알고리즘 문제 (2026-03-16 업데이트)
+# 🔥 이번 주 알고리즘 문제 (2026-03-23 업데이트)
 
 ### 💥 Hard
-- <img src="https://static.solved.ac/tier_small/18.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[12844. XOR](https://www.acmicpc.net/problem/12844)
+- <img src="https://static.solved.ac/tier_small/16.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[14942. 개미](https://www.acmicpc.net/problem/14942)
 
 
 ### ⚙️ Normal
-- <img src="https://static.solved.ac/tier_small/13.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[13904. 과제](https://www.acmicpc.net/problem/13904)
-- <img src="https://static.solved.ac/tier_small/12.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[14718. 용감한 용사 진수](https://www.acmicpc.net/problem/14718)
-- <img src="https://static.solved.ac/tier_small/11.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[16938. 캠프 준비](https://www.acmicpc.net/problem/16938)
+- <img src="https://static.solved.ac/tier_small/12.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[12893. 적의 적](https://www.acmicpc.net/problem/12893)
+- <img src="https://static.solved.ac/tier_small/12.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[6497. 전력난](https://www.acmicpc.net/problem/6497)
+- <img src="https://static.solved.ac/tier_small/11.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[25391. 특별상](https://www.acmicpc.net/problem/25391)
 
 
 ### 🍀 Easy
-- <img src="https://static.solved.ac/tier_small/10.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[15723. n단 논법](https://www.acmicpc.net/problem/15723)
-- <img src="https://static.solved.ac/tier_small/10.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[1495. 기타리스트](https://www.acmicpc.net/problem/1495)
+- <img src="https://static.solved.ac/tier_small/10.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[13901. 로봇](https://www.acmicpc.net/problem/13901)
+- <img src="https://static.solved.ac/tier_small/6.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[1676. 팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)
 
 
 # 🔥 **Weekly 알고리즘 스터디**
