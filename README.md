@@ -1,18 +1,18 @@
-# 🔥 이번 주 알고리즘 문제 (2026-03-30 업데이트)
+# 🔥 이번 주 알고리즘 문제 (2026-04-06 업데이트)
 
 ### 💥 Hard
-- <img src="https://static.solved.ac/tier_small/16.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[13711. LCS 4](https://www.acmicpc.net/problem/13711)
+- <img src="https://static.solved.ac/tier_small/17.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[11868. 님 게임 2](https://www.acmicpc.net/problem/11868)
 
 
 ### ⚙️ Normal
-- <img src="https://static.solved.ac/tier_small/12.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[17141. 연구소 2](https://www.acmicpc.net/problem/17141)
-- <img src="https://static.solved.ac/tier_small/11.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[17070. 파이프 옮기기 1](https://www.acmicpc.net/problem/17070)
-- <img src="https://static.solved.ac/tier_small/11.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[22862. 가장 긴 짝수 연속한 부분 수열 (large)](https://www.acmicpc.net/problem/22862)
+- <img src="https://static.solved.ac/tier_small/14.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[14238. 출근 기록](https://www.acmicpc.net/problem/14238)
+- <img src="https://static.solved.ac/tier_small/13.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[2109. 순회강연](https://www.acmicpc.net/problem/2109)
+- <img src="https://static.solved.ac/tier_small/12.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[6987. 월드컵](https://www.acmicpc.net/problem/6987)
 
 
 ### 🍀 Easy
-- <img src="https://static.solved.ac/tier_small/9.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[11051. 이항 계수 2](https://www.acmicpc.net/problem/11051)
-- <img src="https://static.solved.ac/tier_small/9.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[2644. 촌수계산](https://www.acmicpc.net/problem/2644)
+- <img src="https://static.solved.ac/tier_small/10.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[22871. 징검다리 건너기 (large)](https://www.acmicpc.net/problem/22871)
+- <img src="https://static.solved.ac/tier_small/6.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[30034. Slice String](https://www.acmicpc.net/problem/30034)
 
 
 # 🔥 **Weekly 알고리즘 스터디**
