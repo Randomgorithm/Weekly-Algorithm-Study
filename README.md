@@ -1,18 +1,18 @@
-# 🔥 이번 주 알고리즘 문제 (2026-04-06 업데이트)
+# 🔥 이번 주 알고리즘 문제 (2026-04-13 업데이트)
 
 ### 💥 Hard
-- <img src="https://static.solved.ac/tier_small/17.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[11868. 님 게임 2](https://www.acmicpc.net/problem/11868)
+- <img src="https://static.solved.ac/tier_small/20.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[12728. n제곱 계산](https://www.acmicpc.net/problem/12728)
 
 
 ### ⚙️ Normal
-- <img src="https://static.solved.ac/tier_small/14.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[14238. 출근 기록](https://www.acmicpc.net/problem/14238)
-- <img src="https://static.solved.ac/tier_small/13.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[2109. 순회강연](https://www.acmicpc.net/problem/2109)
-- <img src="https://static.solved.ac/tier_small/12.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[6987. 월드컵](https://www.acmicpc.net/problem/6987)
+- <img src="https://static.solved.ac/tier_small/13.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[1022. 소용돌이 예쁘게 출력하기](https://www.acmicpc.net/problem/1022)
+- <img src="https://static.solved.ac/tier_small/11.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[1914. 하노이 탑](https://www.acmicpc.net/problem/1914)
+- <img src="https://static.solved.ac/tier_small/11.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[16928. 뱀과 사다리 게임](https://www.acmicpc.net/problem/16928)
 
 
 ### 🍀 Easy
-- <img src="https://static.solved.ac/tier_small/10.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[22871. 징검다리 건너기 (large)](https://www.acmicpc.net/problem/22871)
-- <img src="https://static.solved.ac/tier_small/6.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[30034. Slice String](https://www.acmicpc.net/problem/30034)
+- <img src="https://static.solved.ac/tier_small/9.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[9020. 골드바흐의 추측](https://www.acmicpc.net/problem/9020)
+- <img src="https://static.solved.ac/tier_small/7.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[30458. 팰린드롬 애너그램](https://www.acmicpc.net/problem/30458)
 
 
 # 🔥 **Weekly 알고리즘 스터디**
