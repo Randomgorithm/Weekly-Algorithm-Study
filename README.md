@@ -1,18 +1,18 @@
-# 🔥 이번 주 알고리즘 문제 (2026-04-13 업데이트)
+# 🔥 이번 주 알고리즘 문제 (2026-04-20 업데이트)
 
 ### 💥 Hard
-- <img src="https://static.solved.ac/tier_small/20.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[12728. n제곱 계산](https://www.acmicpc.net/problem/12728)
+- <img src="https://static.solved.ac/tier_small/19.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[3683. 고양이와 개](https://www.acmicpc.net/problem/3683)
 
 
 ### ⚙️ Normal
-- <img src="https://static.solved.ac/tier_small/13.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[1022. 소용돌이 예쁘게 출력하기](https://www.acmicpc.net/problem/1022)
-- <img src="https://static.solved.ac/tier_small/11.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[1914. 하노이 탑](https://www.acmicpc.net/problem/1914)
-- <img src="https://static.solved.ac/tier_small/11.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[16928. 뱀과 사다리 게임](https://www.acmicpc.net/problem/16928)
+- <img src="https://static.solved.ac/tier_small/11.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[2671. 잠수함식별](https://www.acmicpc.net/problem/2671)
+- <img src="https://static.solved.ac/tier_small/11.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[17845. 수강 과목](https://www.acmicpc.net/problem/17845)
+- <img src="https://static.solved.ac/tier_small/11.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[11509. 풍선 맞추기](https://www.acmicpc.net/problem/11509)
 
 
 ### 🍀 Easy
-- <img src="https://static.solved.ac/tier_small/9.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[9020. 골드바흐의 추측](https://www.acmicpc.net/problem/9020)
-- <img src="https://static.solved.ac/tier_small/7.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[30458. 팰린드롬 애너그램](https://www.acmicpc.net/problem/30458)
+- <img src="https://static.solved.ac/tier_small/8.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[17253. 삼삼한 수 2](https://www.acmicpc.net/problem/17253)
+- <img src="https://static.solved.ac/tier_small/7.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[5568. 카드 놓기](https://www.acmicpc.net/problem/5568)
 
 
 # 🔥 **Weekly 알고리즘 스터디**
