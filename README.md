@@ -1,18 +1,18 @@
-# 🔥 이번 주 알고리즘 문제 (2026-04-20 업데이트)
+# 🔥 이번 주 알고리즘 문제 (2026-04-27 업데이트)
 
 ### 💥 Hard
-- <img src="https://static.solved.ac/tier_small/19.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[3683. 고양이와 개](https://www.acmicpc.net/problem/3683)
+- <img src="https://static.solved.ac/tier_small/17.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[11376. 열혈강호 2](https://www.acmicpc.net/problem/11376)
 
 
 ### ⚙️ Normal
-- <img src="https://static.solved.ac/tier_small/11.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[2671. 잠수함식별](https://www.acmicpc.net/problem/2671)
-- <img src="https://static.solved.ac/tier_small/11.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[17845. 수강 과목](https://www.acmicpc.net/problem/17845)
-- <img src="https://static.solved.ac/tier_small/11.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[11509. 풍선 맞추기](https://www.acmicpc.net/problem/11509)
+- <img src="https://static.solved.ac/tier_small/15.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[1944. 복제 로봇](https://www.acmicpc.net/problem/1944)
+- <img src="https://static.solved.ac/tier_small/12.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[1277. 발전소 설치](https://www.acmicpc.net/problem/1277)
+- <img src="https://static.solved.ac/tier_small/11.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[20437. 문자열 게임 2](https://www.acmicpc.net/problem/20437)
 
 
 ### 🍀 Easy
-- <img src="https://static.solved.ac/tier_small/8.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[17253. 삼삼한 수 2](https://www.acmicpc.net/problem/17253)
-- <img src="https://static.solved.ac/tier_small/7.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[5568. 카드 놓기](https://www.acmicpc.net/problem/5568)
+- <img src="https://static.solved.ac/tier_small/10.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[2705. 팰린드롬 파티션](https://www.acmicpc.net/problem/2705)
+- <img src="https://static.solved.ac/tier_small/6.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[5800. 성적 통계](https://www.acmicpc.net/problem/5800)
 
 
 # 🔥 **Weekly 알고리즘 스터디**
