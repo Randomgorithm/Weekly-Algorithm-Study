@@ -1,18 +1,18 @@
-# 🔥 이번 주 알고리즘 문제 (2026-04-27 업데이트)
+# 🔥 이번 주 알고리즘 문제 (2026-05-04 업데이트)
 
 ### 💥 Hard
-- <img src="https://static.solved.ac/tier_small/17.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[11376. 열혈강호 2](https://www.acmicpc.net/problem/11376)
+- <img src="https://static.solved.ac/tier_small/19.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[10803. 정사각형 만들기](https://www.acmicpc.net/problem/10803)
 
 
 ### ⚙️ Normal
-- <img src="https://static.solved.ac/tier_small/15.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[1944. 복제 로봇](https://www.acmicpc.net/problem/1944)
-- <img src="https://static.solved.ac/tier_small/12.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[1277. 발전소 설치](https://www.acmicpc.net/problem/1277)
-- <img src="https://static.solved.ac/tier_small/11.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[20437. 문자열 게임 2](https://www.acmicpc.net/problem/20437)
+- <img src="https://static.solved.ac/tier_small/14.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[22345. 누적 거리](https://www.acmicpc.net/problem/22345)
+- <img src="https://static.solved.ac/tier_small/12.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[1922. 네트워크 연결](https://www.acmicpc.net/problem/1922)
+- <img src="https://static.solved.ac/tier_small/12.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[19942. 다이어트](https://www.acmicpc.net/problem/19942)
 
 
 ### 🍀 Easy
-- <img src="https://static.solved.ac/tier_small/10.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[2705. 팰린드롬 파티션](https://www.acmicpc.net/problem/2705)
-- <img src="https://static.solved.ac/tier_small/6.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[5800. 성적 통계](https://www.acmicpc.net/problem/5800)
+- <img src="https://static.solved.ac/tier_small/7.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[2776. 암기왕](https://www.acmicpc.net/problem/2776)
+- <img src="https://static.solved.ac/tier_small/7.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[14495. 피보나치 비스무리한 수열](https://www.acmicpc.net/problem/14495)
 
 
 # 🔥 **Weekly 알고리즘 스터디**
