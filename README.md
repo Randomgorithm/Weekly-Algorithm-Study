@@ -1,18 +1,18 @@
-# 🔥 이번 주 알고리즘 문제 (2026-05-11 업데이트)
+# 🔥 이번 주 알고리즘 문제 (2026-05-18 업데이트)
 
 ### 💥 Hard
-- <img src="https://static.solved.ac/tier_small/17.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[12094. 2048 (Hard)](https://www.acmicpc.net/problem/12094)
+- <img src="https://static.solved.ac/tier_small/19.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[13263. 나무 자르기](https://www.acmicpc.net/problem/13263)
 
 
 ### ⚙️ Normal
-- <img src="https://static.solved.ac/tier_small/15.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[6439. 교차](https://www.acmicpc.net/problem/6439)
-- <img src="https://static.solved.ac/tier_small/13.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[9470. Strahler 순서](https://www.acmicpc.net/problem/9470)
-- <img src="https://static.solved.ac/tier_small/11.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[8901. 화학 제품](https://www.acmicpc.net/problem/8901)
+- <img src="https://static.solved.ac/tier_small/15.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[2086. 피보나치 수의 합](https://www.acmicpc.net/problem/2086)
+- <img src="https://static.solved.ac/tier_small/14.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[1507. 궁금한 민호](https://www.acmicpc.net/problem/1507)
+- <img src="https://static.solved.ac/tier_small/13.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[10986. 나머지 합](https://www.acmicpc.net/problem/10986)
 
 
 ### 🍀 Easy
-- <img src="https://static.solved.ac/tier_small/9.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[25945. 컨테이너 재배치](https://www.acmicpc.net/problem/25945)
-- <img src="https://static.solved.ac/tier_small/9.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[10997. 별 찍기 - 22](https://www.acmicpc.net/problem/10997)
+- <img src="https://static.solved.ac/tier_small/9.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[23322. 초콜릿 뺏어 먹기](https://www.acmicpc.net/problem/23322)
+- <img src="https://static.solved.ac/tier_small/6.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[1418. K-세준수](https://www.acmicpc.net/problem/1418)
 
 
 # 🔥 **Weekly 알고리즘 스터디**
