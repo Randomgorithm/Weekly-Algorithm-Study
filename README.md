@@ -1,18 +1,18 @@
-# 🔥 이번 주 알고리즘 문제 (2026-05-18 업데이트)
+# 🔥 이번 주 알고리즘 문제 (2026-05-25 업데이트)
 
 ### 💥 Hard
-- <img src="https://static.solved.ac/tier_small/19.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[13263. 나무 자르기](https://www.acmicpc.net/problem/13263)
+- <img src="https://static.solved.ac/tier_small/18.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[3033. 가장 긴 문자열](https://www.acmicpc.net/problem/3033)
 
 
 ### ⚙️ Normal
-- <img src="https://static.solved.ac/tier_small/15.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[2086. 피보나치 수의 합](https://www.acmicpc.net/problem/2086)
-- <img src="https://static.solved.ac/tier_small/14.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[1507. 궁금한 민호](https://www.acmicpc.net/problem/1507)
-- <img src="https://static.solved.ac/tier_small/13.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[10986. 나머지 합](https://www.acmicpc.net/problem/10986)
+- <img src="https://static.solved.ac/tier_small/12.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[1963. 소수 경로](https://www.acmicpc.net/problem/1963)
+- <img src="https://static.solved.ac/tier_small/12.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[32069. 가로등](https://www.acmicpc.net/problem/32069)
+- <img src="https://static.solved.ac/tier_small/12.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[17404. RGB거리 2](https://www.acmicpc.net/problem/17404)
 
 
 ### 🍀 Easy
-- <img src="https://static.solved.ac/tier_small/9.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[23322. 초콜릿 뺏어 먹기](https://www.acmicpc.net/problem/23322)
-- <img src="https://static.solved.ac/tier_small/6.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[1418. K-세준수](https://www.acmicpc.net/problem/1418)
+- <img src="https://static.solved.ac/tier_small/9.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[15663. N과 M (9)](https://www.acmicpc.net/problem/15663)
+- <img src="https://static.solved.ac/tier_small/9.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[20413. MVP 다이아몬드 (Easy)](https://www.acmicpc.net/problem/20413)
 
 
 # 🔥 **Weekly 알고리즘 스터디**
