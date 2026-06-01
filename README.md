@@ -1,18 +1,18 @@
-# 🔥 이번 주 알고리즘 문제 (2026-05-25 업데이트)
+# 🔥 이번 주 알고리즘 문제 (2026-06-01 업데이트)
 
 ### 💥 Hard
-- <img src="https://static.solved.ac/tier_small/18.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[3033. 가장 긴 문자열](https://www.acmicpc.net/problem/3033)
+- <img src="https://static.solved.ac/tier_small/20.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[15576. 큰 수 곱셈 (2)](https://www.acmicpc.net/problem/15576)
 
 
 ### ⚙️ Normal
-- <img src="https://static.solved.ac/tier_small/12.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[1963. 소수 경로](https://www.acmicpc.net/problem/1963)
-- <img src="https://static.solved.ac/tier_small/12.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[32069. 가로등](https://www.acmicpc.net/problem/32069)
-- <img src="https://static.solved.ac/tier_small/12.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[17404. RGB거리 2](https://www.acmicpc.net/problem/17404)
+- <img src="https://static.solved.ac/tier_small/15.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[2423. 전구를 켜라](https://www.acmicpc.net/problem/2423)
+- <img src="https://static.solved.ac/tier_small/13.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[11049. 행렬 곱셈 순서](https://www.acmicpc.net/problem/11049)
+- <img src="https://static.solved.ac/tier_small/12.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[2661. 좋은수열](https://www.acmicpc.net/problem/2661)
 
 
 ### 🍀 Easy
-- <img src="https://static.solved.ac/tier_small/9.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[15663. N과 M (9)](https://www.acmicpc.net/problem/15663)
-- <img src="https://static.solved.ac/tier_small/9.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[20413. MVP 다이아몬드 (Easy)](https://www.acmicpc.net/problem/20413)
+- <img src="https://static.solved.ac/tier_small/8.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[10407. 2 타워](https://www.acmicpc.net/problem/10407)
+- <img src="https://static.solved.ac/tier_small/7.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[14468. 소가 길을 건너간 이유 2](https://www.acmicpc.net/problem/14468)
 
 
 # 🔥 **Weekly 알고리즘 스터디**
