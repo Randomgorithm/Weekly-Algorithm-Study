@@ -1,18 +1,18 @@
-# 🔥 이번 주 알고리즘 문제 (2026-06-08 업데이트)
+# 🔥 이번 주 알고리즘 문제 (2026-06-15 업데이트)
 
 ### 💥 Hard
-- <img src="https://static.solved.ac/tier_small/16.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[2001. 보석 줍기](https://www.acmicpc.net/problem/2001)
+- <img src="https://static.solved.ac/tier_small/18.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[9240. 로버트 후드](https://www.acmicpc.net/problem/9240)
 
 
 ### ⚙️ Normal
-- <img src="https://static.solved.ac/tier_small/14.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[2632. 피자판매](https://www.acmicpc.net/problem/2632)
-- <img src="https://static.solved.ac/tier_small/12.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[1034. 램프](https://www.acmicpc.net/problem/1034)
-- <img src="https://static.solved.ac/tier_small/12.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[1083. 소트](https://www.acmicpc.net/problem/1083)
+- <img src="https://static.solved.ac/tier_small/14.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[2450. 모양 정돈](https://www.acmicpc.net/problem/2450)
+- <img src="https://static.solved.ac/tier_small/12.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[11054. 가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054)
+- <img src="https://static.solved.ac/tier_small/11.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[1599. 민식어](https://www.acmicpc.net/problem/1599)
 
 
 ### 🍀 Easy
-- <img src="https://static.solved.ac/tier_small/7.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[10825. 국영수](https://www.acmicpc.net/problem/10825)
-- <img src="https://static.solved.ac/tier_small/7.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[2217. 로프](https://www.acmicpc.net/problem/2217)
+- <img src="https://static.solved.ac/tier_small/9.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[9184. 신나는 함수 실행](https://www.acmicpc.net/problem/9184)
+- <img src="https://static.solved.ac/tier_small/7.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[5623. 수열의 합](https://www.acmicpc.net/problem/5623)
 
 
 # 🔥 **Weekly 알고리즘 스터디**
