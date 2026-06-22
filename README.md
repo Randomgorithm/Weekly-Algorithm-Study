@@ -1,18 +1,18 @@
-# 🔥 이번 주 알고리즘 문제 (2026-06-15 업데이트)
+# 🔥 이번 주 알고리즘 문제 (2026-06-22 업데이트)
 
 ### 💥 Hard
-- <img src="https://static.solved.ac/tier_small/18.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[9240. 로버트 후드](https://www.acmicpc.net/problem/9240)
+- <img src="https://static.solved.ac/tier_small/19.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[3683. 고양이와 개](https://www.acmicpc.net/problem/3683)
 
 
 ### ⚙️ Normal
-- <img src="https://static.solved.ac/tier_small/14.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[2450. 모양 정돈](https://www.acmicpc.net/problem/2450)
-- <img src="https://static.solved.ac/tier_small/12.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[11054. 가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054)
-- <img src="https://static.solved.ac/tier_small/11.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[1599. 민식어](https://www.acmicpc.net/problem/1599)
+- <img src="https://static.solved.ac/tier_small/13.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[16957. 체스판 위의 공](https://www.acmicpc.net/problem/16957)
+- <img src="https://static.solved.ac/tier_small/13.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[23288. 주사위 굴리기 2](https://www.acmicpc.net/problem/23288)
+- <img src="https://static.solved.ac/tier_small/12.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[30805. 사전 순 최대 공통 부분 수열](https://www.acmicpc.net/problem/30805)
 
 
 ### 🍀 Easy
-- <img src="https://static.solved.ac/tier_small/9.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[9184. 신나는 함수 실행](https://www.acmicpc.net/problem/9184)
-- <img src="https://static.solved.ac/tier_small/7.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[5623. 수열의 합](https://www.acmicpc.net/problem/5623)
+- <img src="https://static.solved.ac/tier_small/9.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[17827. 달팽이 리스트](https://www.acmicpc.net/problem/17827)
+- <img src="https://static.solved.ac/tier_small/7.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[1205. 등수 구하기](https://www.acmicpc.net/problem/1205)
 
 
 # 🔥 **Weekly 알고리즘 스터디**
