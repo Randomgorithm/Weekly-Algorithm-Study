@@ -1,18 +1,18 @@
-# 🔥 이번 주 알고리즘 문제 (2026-06-29 업데이트)
+# 🔥 이번 주 알고리즘 문제 (2026-07-06 업데이트)
 
 ### 💥 Hard
-- <img src="https://static.solved.ac/tier_small/16.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[1097. 마법의 문자열](https://www.acmicpc.net/problem/1097)
+- <img src="https://static.solved.ac/tier_small/16.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[25378. 조약돌](https://www.acmicpc.net/problem/25378)
 
 
 ### ⚙️ Normal
-- <img src="https://static.solved.ac/tier_small/15.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[1311. 할 일 정하기 1](https://www.acmicpc.net/problem/1311)
-- <img src="https://static.solved.ac/tier_small/12.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[2665. 미로만들기](https://www.acmicpc.net/problem/2665)
-- <img src="https://static.solved.ac/tier_small/11.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[23559. 밥](https://www.acmicpc.net/problem/23559)
+- <img src="https://static.solved.ac/tier_small/15.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[2136. 개미](https://www.acmicpc.net/problem/2136)
+- <img src="https://static.solved.ac/tier_small/14.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[14565. 역원(Inverse) 구하기](https://www.acmicpc.net/problem/14565)
+- <img src="https://static.solved.ac/tier_small/13.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[17490. 일감호에 다리 놓기](https://www.acmicpc.net/problem/17490)
 
 
 ### 🍀 Easy
-- <img src="https://static.solved.ac/tier_small/7.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[18110. solved.ac](https://www.acmicpc.net/problem/18110)
-- <img src="https://static.solved.ac/tier_small/6.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[4659. 비밀번호 발음하기](https://www.acmicpc.net/problem/4659)
+- <img src="https://static.solved.ac/tier_small/10.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[15992. 1, 2, 3 더하기 7](https://www.acmicpc.net/problem/15992)
+- <img src="https://static.solved.ac/tier_small/9.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[24484. 알고리즘 수업 - 깊이 우선 탐색 6](https://www.acmicpc.net/problem/24484)
 
 
 # 🔥 **Weekly 알고리즘 스터디**
