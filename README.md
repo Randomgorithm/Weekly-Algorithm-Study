@@ -1,18 +1,18 @@
-# 🔥 이번 주 알고리즘 문제 (2026-07-06 업데이트)
+# 🔥 이번 주 알고리즘 문제 (2026-07-13 업데이트)
 
 ### 💥 Hard
-- <img src="https://static.solved.ac/tier_small/16.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[25378. 조약돌](https://www.acmicpc.net/problem/25378)
+- <img src="https://static.solved.ac/tier_small/17.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[12928. 트리와 경로의 길이](https://www.acmicpc.net/problem/12928)
 
 
 ### ⚙️ Normal
-- <img src="https://static.solved.ac/tier_small/15.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[2136. 개미](https://www.acmicpc.net/problem/2136)
-- <img src="https://static.solved.ac/tier_small/14.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[14565. 역원(Inverse) 구하기](https://www.acmicpc.net/problem/14565)
-- <img src="https://static.solved.ac/tier_small/13.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[17490. 일감호에 다리 놓기](https://www.acmicpc.net/problem/17490)
+- <img src="https://static.solved.ac/tier_small/13.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[15685. 드래곤 커브](https://www.acmicpc.net/problem/15685)
+- <img src="https://static.solved.ac/tier_small/12.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[13398. 연속합 2](https://www.acmicpc.net/problem/13398)
+- <img src="https://static.solved.ac/tier_small/12.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[2800. 괄호 제거](https://www.acmicpc.net/problem/2800)
 
 
 ### 🍀 Easy
-- <img src="https://static.solved.ac/tier_small/10.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[15992. 1, 2, 3 더하기 7](https://www.acmicpc.net/problem/15992)
-- <img src="https://static.solved.ac/tier_small/9.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[24484. 알고리즘 수업 - 깊이 우선 탐색 6](https://www.acmicpc.net/problem/24484)
+- <img src="https://static.solved.ac/tier_small/9.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[20152. Game Addiction](https://www.acmicpc.net/problem/20152)
+- <img src="https://static.solved.ac/tier_small/8.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[16922. 로마 숫자 만들기](https://www.acmicpc.net/problem/16922)
 
 
 # 🔥 **Weekly 알고리즘 스터디**
