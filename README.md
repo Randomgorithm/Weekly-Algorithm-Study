@@ -1,18 +1,18 @@
-# 🔥 이번 주 알고리즘 문제 (2026-07-13 업데이트)
+# 🔥 이번 주 알고리즘 문제 (2026-07-20 업데이트)
 
 ### 💥 Hard
-- <img src="https://static.solved.ac/tier_small/17.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[12928. 트리와 경로의 길이](https://www.acmicpc.net/problem/12928)
+- <img src="https://static.solved.ac/tier_small/17.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[9735. 삼차 방정식 풀기](https://www.acmicpc.net/problem/9735)
 
 
 ### ⚙️ Normal
-- <img src="https://static.solved.ac/tier_small/13.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[15685. 드래곤 커브](https://www.acmicpc.net/problem/15685)
-- <img src="https://static.solved.ac/tier_small/12.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[13398. 연속합 2](https://www.acmicpc.net/problem/13398)
-- <img src="https://static.solved.ac/tier_small/12.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[2800. 괄호 제거](https://www.acmicpc.net/problem/2800)
+- <img src="https://static.solved.ac/tier_small/13.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[12107. 약수 지우기 게임 1](https://www.acmicpc.net/problem/12107)
+- <img src="https://static.solved.ac/tier_small/13.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[13905. 세부](https://www.acmicpc.net/problem/13905)
+- <img src="https://static.solved.ac/tier_small/11.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[24230. 트리 색칠하기](https://www.acmicpc.net/problem/24230)
 
 
 ### 🍀 Easy
-- <img src="https://static.solved.ac/tier_small/9.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[20152. Game Addiction](https://www.acmicpc.net/problem/20152)
-- <img src="https://static.solved.ac/tier_small/8.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[16922. 로마 숫자 만들기](https://www.acmicpc.net/problem/16922)
+- <img src="https://static.solved.ac/tier_small/8.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[9657. 돌 게임 3](https://www.acmicpc.net/problem/9657)
+- <img src="https://static.solved.ac/tier_small/8.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[1951. 활자](https://www.acmicpc.net/problem/1951)
 
 
 # 🔥 **Weekly 알고리즘 스터디**
