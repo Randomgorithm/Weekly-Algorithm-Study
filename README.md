@@ -1,18 +1,18 @@
-# 🔥 이번 주 알고리즘 문제 (2026-07-20 업데이트)
+# 🔥 이번 주 알고리즘 문제 (2026-07-27 업데이트)
 
 ### 💥 Hard
-- <img src="https://static.solved.ac/tier_small/17.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[9735. 삼차 방정식 풀기](https://www.acmicpc.net/problem/9735)
+- <img src="https://static.solved.ac/tier_small/16.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[19577. 수학은 재밌어](https://www.acmicpc.net/problem/19577)
 
 
 ### ⚙️ Normal
-- <img src="https://static.solved.ac/tier_small/13.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[12107. 약수 지우기 게임 1](https://www.acmicpc.net/problem/12107)
-- <img src="https://static.solved.ac/tier_small/13.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[13905. 세부](https://www.acmicpc.net/problem/13905)
-- <img src="https://static.solved.ac/tier_small/11.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[24230. 트리 색칠하기](https://www.acmicpc.net/problem/24230)
+- <img src="https://static.solved.ac/tier_small/12.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[2580. 스도쿠](https://www.acmicpc.net/problem/2580)
+- <img src="https://static.solved.ac/tier_small/12.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[17250. 은하철도](https://www.acmicpc.net/problem/17250)
+- <img src="https://static.solved.ac/tier_small/11.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[21922. 학부 연구생 민상](https://www.acmicpc.net/problem/21922)
 
 
 ### 🍀 Easy
-- <img src="https://static.solved.ac/tier_small/8.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[9657. 돌 게임 3](https://www.acmicpc.net/problem/9657)
-- <img src="https://static.solved.ac/tier_small/8.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[1951. 활자](https://www.acmicpc.net/problem/1951)
+- <img src="https://static.solved.ac/tier_small/8.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[11659. 구간 합 구하기 4](https://www.acmicpc.net/problem/11659)
+- <img src="https://static.solved.ac/tier_small/7.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[1120. 문자열](https://www.acmicpc.net/problem/1120)
 
 
 # 🔥 **Weekly 알고리즘 스터디**
