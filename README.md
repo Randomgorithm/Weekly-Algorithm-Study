@@ -1,18 +1,18 @@
-# 🔥 이번 주 알고리즘 문제 (2026-07-27 업데이트)
+# 🔥 이번 주 알고리즘 문제 (2026-08-03 업데이트)
 
 ### 💥 Hard
-- <img src="https://static.solved.ac/tier_small/16.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[19577. 수학은 재밌어](https://www.acmicpc.net/problem/19577)
+- <img src="https://static.solved.ac/tier_small/17.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[1777. 순열복원](https://www.acmicpc.net/problem/1777)
 
 
 ### ⚙️ Normal
-- <img src="https://static.solved.ac/tier_small/12.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[2580. 스도쿠](https://www.acmicpc.net/problem/2580)
-- <img src="https://static.solved.ac/tier_small/12.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[17250. 은하철도](https://www.acmicpc.net/problem/17250)
-- <img src="https://static.solved.ac/tier_small/11.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[21922. 학부 연구생 민상](https://www.acmicpc.net/problem/21922)
+- <img src="https://static.solved.ac/tier_small/15.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[17371. 이사](https://www.acmicpc.net/problem/17371)
+- <img src="https://static.solved.ac/tier_small/11.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[1684. 같은 나머지](https://www.acmicpc.net/problem/1684)
+- <img src="https://static.solved.ac/tier_small/11.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[15927. 회문은 회문아니야!!](https://www.acmicpc.net/problem/15927)
 
 
 ### 🍀 Easy
-- <img src="https://static.solved.ac/tier_small/8.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[11659. 구간 합 구하기 4](https://www.acmicpc.net/problem/11659)
-- <img src="https://static.solved.ac/tier_small/7.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[1120. 문자열](https://www.acmicpc.net/problem/1120)
+- <img src="https://static.solved.ac/tier_small/8.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[14607. 피자 (Large)](https://www.acmicpc.net/problem/14607)
+- <img src="https://static.solved.ac/tier_small/7.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[1812. 사탕](https://www.acmicpc.net/problem/1812)
 
 
 # 🔥 **Weekly 알고리즘 스터디**
