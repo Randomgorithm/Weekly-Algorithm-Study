@@ -1,18 +1,18 @@
-# 🔥 이번 주 알고리즘 문제 (2026-08-03 업데이트)
+# 🔥 이번 주 알고리즘 문제 (2026-08-10 업데이트)
 
 ### 💥 Hard
-- <img src="https://static.solved.ac/tier_small/17.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[1777. 순열복원](https://www.acmicpc.net/problem/1777)
+- <img src="https://static.solved.ac/tier_small/18.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[2316. 도시 왕복하기 2](https://www.acmicpc.net/problem/2316)
 
 
 ### ⚙️ Normal
-- <img src="https://static.solved.ac/tier_small/15.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[17371. 이사](https://www.acmicpc.net/problem/17371)
-- <img src="https://static.solved.ac/tier_small/11.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[1684. 같은 나머지](https://www.acmicpc.net/problem/1684)
-- <img src="https://static.solved.ac/tier_small/11.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[15927. 회문은 회문아니야!!](https://www.acmicpc.net/problem/15927)
+- <img src="https://static.solved.ac/tier_small/14.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[12014. 주식](https://www.acmicpc.net/problem/12014)
+- <img src="https://static.solved.ac/tier_small/13.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[1670. 정상 회담 2](https://www.acmicpc.net/problem/1670)
+- <img src="https://static.solved.ac/tier_small/13.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[17270. 연예인은 힘들어](https://www.acmicpc.net/problem/17270)
 
 
 ### 🍀 Easy
-- <img src="https://static.solved.ac/tier_small/8.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[14607. 피자 (Large)](https://www.acmicpc.net/problem/14607)
-- <img src="https://static.solved.ac/tier_small/7.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[1812. 사탕](https://www.acmicpc.net/problem/1812)
+- <img src="https://static.solved.ac/tier_small/6.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[30010. 잘못된 버블정렬](https://www.acmicpc.net/problem/30010)
+- <img src="https://static.solved.ac/tier_small/6.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[4108. 지뢰찾기](https://www.acmicpc.net/problem/4108)
 
 
 # 🔥 **Weekly 알고리즘 스터디**
