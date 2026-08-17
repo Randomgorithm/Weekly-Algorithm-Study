@@ -1,18 +1,18 @@
-# 🔥 이번 주 알고리즘 문제 (2026-08-10 업데이트)
+# 🔥 이번 주 알고리즘 문제 (2026-08-17 업데이트)
 
 ### 💥 Hard
-- <img src="https://static.solved.ac/tier_small/18.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[2316. 도시 왕복하기 2](https://www.acmicpc.net/problem/2316)
+- <img src="https://static.solved.ac/tier_small/20.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[13261. 탈옥](https://www.acmicpc.net/problem/13261)
 
 
 ### ⚙️ Normal
-- <img src="https://static.solved.ac/tier_small/14.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[12014. 주식](https://www.acmicpc.net/problem/12014)
-- <img src="https://static.solved.ac/tier_small/13.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[1670. 정상 회담 2](https://www.acmicpc.net/problem/1670)
-- <img src="https://static.solved.ac/tier_small/13.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[17270. 연예인은 힘들어](https://www.acmicpc.net/problem/17270)
+- <img src="https://static.solved.ac/tier_small/15.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[6091. 핑크 플로이드](https://www.acmicpc.net/problem/6091)
+- <img src="https://static.solved.ac/tier_small/14.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[6209. 제자리 멀리뛰기](https://www.acmicpc.net/problem/6209)
+- <img src="https://static.solved.ac/tier_small/13.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[4577. 소코반](https://www.acmicpc.net/problem/4577)
 
 
 ### 🍀 Easy
-- <img src="https://static.solved.ac/tier_small/6.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[30010. 잘못된 버블정렬](https://www.acmicpc.net/problem/30010)
-- <img src="https://static.solved.ac/tier_small/6.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[4108. 지뢰찾기](https://www.acmicpc.net/problem/4108)
+- <img src="https://static.solved.ac/tier_small/9.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[24500. blobblush](https://www.acmicpc.net/problem/24500)
+- <img src="https://static.solved.ac/tier_small/9.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[2304. 창고 다각형](https://www.acmicpc.net/problem/2304)
 
 
 # 🔥 **Weekly 알고리즘 스터디**
