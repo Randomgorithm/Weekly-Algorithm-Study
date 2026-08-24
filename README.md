@@ -1,18 +1,18 @@
-# 🔥 이번 주 알고리즘 문제 (2026-08-17 업데이트)
+# 🔥 이번 주 알고리즘 문제 (2026-08-24 업데이트)
 
 ### 💥 Hard
-- <img src="https://static.solved.ac/tier_small/20.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[13261. 탈옥](https://www.acmicpc.net/problem/13261)
+- <img src="https://static.solved.ac/tier_small/18.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[3648. 아이돌](https://www.acmicpc.net/problem/3648)
 
 
 ### ⚙️ Normal
-- <img src="https://static.solved.ac/tier_small/15.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[6091. 핑크 플로이드](https://www.acmicpc.net/problem/6091)
-- <img src="https://static.solved.ac/tier_small/14.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[6209. 제자리 멀리뛰기](https://www.acmicpc.net/problem/6209)
-- <img src="https://static.solved.ac/tier_small/13.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[4577. 소코반](https://www.acmicpc.net/problem/4577)
+- <img src="https://static.solved.ac/tier_small/15.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[2263. 트리의 순회](https://www.acmicpc.net/problem/2263)
+- <img src="https://static.solved.ac/tier_small/11.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[11578. 팀원 모집](https://www.acmicpc.net/problem/11578)
+- <img src="https://static.solved.ac/tier_small/11.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[19951. 태상이의 훈련소 생활](https://www.acmicpc.net/problem/19951)
 
 
 ### 🍀 Easy
-- <img src="https://static.solved.ac/tier_small/9.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[24500. blobblush](https://www.acmicpc.net/problem/24500)
-- <img src="https://static.solved.ac/tier_small/9.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[2304. 창고 다각형](https://www.acmicpc.net/problem/2304)
+- <img src="https://static.solved.ac/tier_small/7.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[9322. 철벽 보안 알고리즘](https://www.acmicpc.net/problem/9322)
+- <img src="https://static.solved.ac/tier_small/6.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[24228. 젓가락](https://www.acmicpc.net/problem/24228)
 
 
 # 🔥 **Weekly 알고리즘 스터디**
