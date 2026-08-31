@@ -1,18 +1,18 @@
-# 🔥 이번 주 알고리즘 문제 (2026-08-24 업데이트)
+# 🔥 이번 주 알고리즘 문제 (2026-08-31 업데이트)
 
 ### 💥 Hard
-- <img src="https://static.solved.ac/tier_small/18.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[3648. 아이돌](https://www.acmicpc.net/problem/3648)
+- <img src="https://static.solved.ac/tier_small/16.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[2887. 행성 터널](https://www.acmicpc.net/problem/2887)
 
 
 ### ⚙️ Normal
-- <img src="https://static.solved.ac/tier_small/15.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[2263. 트리의 순회](https://www.acmicpc.net/problem/2263)
-- <img src="https://static.solved.ac/tier_small/11.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[11578. 팀원 모집](https://www.acmicpc.net/problem/11578)
-- <img src="https://static.solved.ac/tier_small/11.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[19951. 태상이의 훈련소 생활](https://www.acmicpc.net/problem/19951)
+- <img src="https://static.solved.ac/tier_small/15.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[16566. 카드 게임](https://www.acmicpc.net/problem/16566)
+- <img src="https://static.solved.ac/tier_small/15.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[1035. 조각 움직이기](https://www.acmicpc.net/problem/1035)
+- <img src="https://static.solved.ac/tier_small/14.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[17612. 쇼핑몰](https://www.acmicpc.net/problem/17612)
 
 
 ### 🍀 Easy
-- <img src="https://static.solved.ac/tier_small/7.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[9322. 철벽 보안 알고리즘](https://www.acmicpc.net/problem/9322)
-- <img src="https://static.solved.ac/tier_small/6.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[24228. 젓가락](https://www.acmicpc.net/problem/24228)
+- <img src="https://static.solved.ac/tier_small/7.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[1057. 토너먼트](https://www.acmicpc.net/problem/1057)
+- <img src="https://static.solved.ac/tier_small/6.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[13241. 최소공배수](https://www.acmicpc.net/problem/13241)
 
 
 # 🔥 **Weekly 알고리즘 스터디**
