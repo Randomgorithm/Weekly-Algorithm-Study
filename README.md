@@ -1,18 +1,18 @@
-# 🔥 이번 주 알고리즘 문제 (2026-08-31 업데이트)
+# 🔥 이번 주 알고리즘 문제 (2026-09-07 업데이트)
 
 ### 💥 Hard
-- <img src="https://static.solved.ac/tier_small/16.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[2887. 행성 터널](https://www.acmicpc.net/problem/2887)
+- <img src="https://static.solved.ac/tier_small/16.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[19235. 모노미노도미노](https://www.acmicpc.net/problem/19235)
 
 
 ### ⚙️ Normal
-- <img src="https://static.solved.ac/tier_small/15.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[16566. 카드 게임](https://www.acmicpc.net/problem/16566)
-- <img src="https://static.solved.ac/tier_small/15.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[1035. 조각 움직이기](https://www.acmicpc.net/problem/1035)
-- <img src="https://static.solved.ac/tier_small/14.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[17612. 쇼핑몰](https://www.acmicpc.net/problem/17612)
+- <img src="https://static.solved.ac/tier_small/14.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[1486. 등산](https://www.acmicpc.net/problem/1486)
+- <img src="https://static.solved.ac/tier_small/11.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[17394. 핑거 스냅](https://www.acmicpc.net/problem/17394)
+- <img src="https://static.solved.ac/tier_small/11.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[20055. 컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055)
 
 
 ### 🍀 Easy
-- <img src="https://static.solved.ac/tier_small/7.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[1057. 토너먼트](https://www.acmicpc.net/problem/1057)
-- <img src="https://static.solved.ac/tier_small/6.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[13241. 최소공배수](https://www.acmicpc.net/problem/13241)
+- <img src="https://static.solved.ac/tier_small/7.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[3018. 캠프파이어](https://www.acmicpc.net/problem/3018)
+- <img src="https://static.solved.ac/tier_small/6.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[15739. 매직스퀘어](https://www.acmicpc.net/problem/15739)
 
 
 # 🔥 **Weekly 알고리즘 스터디**
