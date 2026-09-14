@@ -1,18 +1,18 @@
-# 🔥 이번 주 알고리즘 문제 (2026-09-07 업데이트)
+# 🔥 이번 주 알고리즘 문제 (2026-09-14 업데이트)
 
 ### 💥 Hard
-- <img src="https://static.solved.ac/tier_small/16.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[19235. 모노미노도미노](https://www.acmicpc.net/problem/19235)
+- <img src="https://static.solved.ac/tier_small/16.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[2568. 전깃줄 - 2](https://www.acmicpc.net/problem/2568)
 
 
 ### ⚙️ Normal
-- <img src="https://static.solved.ac/tier_small/14.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[1486. 등산](https://www.acmicpc.net/problem/1486)
-- <img src="https://static.solved.ac/tier_small/11.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[17394. 핑거 스냅](https://www.acmicpc.net/problem/17394)
-- <img src="https://static.solved.ac/tier_small/11.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[20055. 컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055)
+- <img src="https://static.solved.ac/tier_small/15.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[1053. 팰린드롬 공장](https://www.acmicpc.net/problem/1053)
+- <img src="https://static.solved.ac/tier_small/14.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[2461. 대표 선수](https://www.acmicpc.net/problem/2461)
+- <img src="https://static.solved.ac/tier_small/12.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[20955. 민서의 응급 수술](https://www.acmicpc.net/problem/20955)
 
 
 ### 🍀 Easy
-- <img src="https://static.solved.ac/tier_small/7.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[3018. 캠프파이어](https://www.acmicpc.net/problem/3018)
-- <img src="https://static.solved.ac/tier_small/6.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[15739. 매직스퀘어](https://www.acmicpc.net/problem/15739)
+- <img src="https://static.solved.ac/tier_small/8.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[7696. 반복하지 않는 수](https://www.acmicpc.net/problem/7696)
+- <img src="https://static.solved.ac/tier_small/7.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[14469. 소가 길을 건너간 이유 3](https://www.acmicpc.net/problem/14469)
 
 
 # 🔥 **Weekly 알고리즘 스터디**
