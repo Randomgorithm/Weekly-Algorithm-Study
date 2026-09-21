@@ -1,18 +1,18 @@
-# 🔥 이번 주 알고리즘 문제 (2026-09-14 업데이트)
+# 🔥 이번 주 알고리즘 문제 (2026-09-21 업데이트)
 
 ### 💥 Hard
-- <img src="https://static.solved.ac/tier_small/16.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[2568. 전깃줄 - 2](https://www.acmicpc.net/problem/2568)
+- <img src="https://static.solved.ac/tier_small/18.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[17469. 트리의 색깔과 쿼리](https://www.acmicpc.net/problem/17469)
 
 
 ### ⚙️ Normal
-- <img src="https://static.solved.ac/tier_small/15.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[1053. 팰린드롬 공장](https://www.acmicpc.net/problem/1053)
-- <img src="https://static.solved.ac/tier_small/14.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[2461. 대표 선수](https://www.acmicpc.net/problem/2461)
-- <img src="https://static.solved.ac/tier_small/12.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[20955. 민서의 응급 수술](https://www.acmicpc.net/problem/20955)
+- <img src="https://static.solved.ac/tier_small/13.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[11049. 행렬 곱셈 순서](https://www.acmicpc.net/problem/11049)
+- <img src="https://static.solved.ac/tier_small/12.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[14226. 이모티콘](https://www.acmicpc.net/problem/14226)
+- <img src="https://static.solved.ac/tier_small/11.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[23843. 콘센트](https://www.acmicpc.net/problem/23843)
 
 
 ### 🍀 Easy
-- <img src="https://static.solved.ac/tier_small/8.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[7696. 반복하지 않는 수](https://www.acmicpc.net/problem/7696)
-- <img src="https://static.solved.ac/tier_small/7.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[14469. 소가 길을 건너간 이유 3](https://www.acmicpc.net/problem/14469)
+- <img src="https://static.solved.ac/tier_small/8.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[15353. 큰 수 A+B (2)](https://www.acmicpc.net/problem/15353)
+- <img src="https://static.solved.ac/tier_small/6.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[27907. The primes contain arbitrarily long arithmetic progressions](https://www.acmicpc.net/problem/27907)
 
 
 # 🔥 **Weekly 알고리즘 스터디**
