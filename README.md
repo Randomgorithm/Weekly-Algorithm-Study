@@ -1,18 +1,18 @@
-# 🔥 이번 주 알고리즘 문제 (2026-09-21 업데이트)
+# 🔥 이번 주 알고리즘 문제 (2026-09-28 업데이트)
 
 ### 💥 Hard
-- <img src="https://static.solved.ac/tier_small/18.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[17469. 트리의 색깔과 쿼리](https://www.acmicpc.net/problem/17469)
+- <img src="https://static.solved.ac/tier_small/18.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[2873. 롤러코스터](https://www.acmicpc.net/problem/2873)
 
 
 ### ⚙️ Normal
-- <img src="https://static.solved.ac/tier_small/13.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[11049. 행렬 곱셈 순서](https://www.acmicpc.net/problem/11049)
-- <img src="https://static.solved.ac/tier_small/12.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[14226. 이모티콘](https://www.acmicpc.net/problem/14226)
-- <img src="https://static.solved.ac/tier_small/11.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[23843. 콘센트](https://www.acmicpc.net/problem/23843)
+- <img src="https://static.solved.ac/tier_small/14.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[15824. 너 봄에는 캡사이신이 맛있단다](https://www.acmicpc.net/problem/15824)
+- <img src="https://static.solved.ac/tier_small/12.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[16562. 친구비](https://www.acmicpc.net/problem/16562)
+- <img src="https://static.solved.ac/tier_small/11.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[2916. 자와 각도기](https://www.acmicpc.net/problem/2916)
 
 
 ### 🍀 Easy
-- <img src="https://static.solved.ac/tier_small/8.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[15353. 큰 수 A+B (2)](https://www.acmicpc.net/problem/15353)
-- <img src="https://static.solved.ac/tier_small/6.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[27907. The primes contain arbitrarily long arithmetic progressions](https://www.acmicpc.net/problem/27907)
+- <img src="https://static.solved.ac/tier_small/10.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[14232. 보석 도둑](https://www.acmicpc.net/problem/14232)
+- <img src="https://static.solved.ac/tier_small/7.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[3018. 캠프파이어](https://www.acmicpc.net/problem/3018)
 
 
 # 🔥 **Weekly 알고리즘 스터디**
