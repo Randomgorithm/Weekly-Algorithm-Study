@@ -1,18 +1,18 @@
-# 🔥 이번 주 알고리즘 문제 (2026-09-28 업데이트)
+# 🔥 이번 주 알고리즘 문제 (2026-10-05 업데이트)
 
 ### 💥 Hard
-- <img src="https://static.solved.ac/tier_small/18.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[2873. 롤러코스터](https://www.acmicpc.net/problem/2873)
+- <img src="https://static.solved.ac/tier_small/16.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[12872. 플레이리스트](https://www.acmicpc.net/problem/12872)
 
 
 ### ⚙️ Normal
-- <img src="https://static.solved.ac/tier_small/14.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[15824. 너 봄에는 캡사이신이 맛있단다](https://www.acmicpc.net/problem/15824)
-- <img src="https://static.solved.ac/tier_small/12.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[16562. 친구비](https://www.acmicpc.net/problem/16562)
-- <img src="https://static.solved.ac/tier_small/11.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[2916. 자와 각도기](https://www.acmicpc.net/problem/2916)
+- <img src="https://static.solved.ac/tier_small/13.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[16724. 피리 부는 사나이](https://www.acmicpc.net/problem/16724)
+- <img src="https://static.solved.ac/tier_small/12.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[2551. 두 대표 자연수](https://www.acmicpc.net/problem/2551)
+- <img src="https://static.solved.ac/tier_small/11.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[3019. 테트리스](https://www.acmicpc.net/problem/3019)
 
 
 ### 🍀 Easy
-- <img src="https://static.solved.ac/tier_small/10.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[14232. 보석 도둑](https://www.acmicpc.net/problem/14232)
-- <img src="https://static.solved.ac/tier_small/7.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[3018. 캠프파이어](https://www.acmicpc.net/problem/3018)
+- <img src="https://static.solved.ac/tier_small/8.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[16165. 걸그룹 마스터 준석이](https://www.acmicpc.net/problem/16165)
+- <img src="https://static.solved.ac/tier_small/8.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[7795. 먹을 것인가 먹힐 것인가](https://www.acmicpc.net/problem/7795)
 
 
 # 🔥 **Weekly 알고리즘 스터디**
