@@ -1,18 +1,18 @@
-# 🔥 이번 주 알고리즘 문제 (2026-10-05 업데이트)
+# 🔥 이번 주 알고리즘 문제 (2026-10-12 업데이트)
 
 ### 💥 Hard
-- <img src="https://static.solved.ac/tier_small/16.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[12872. 플레이리스트](https://www.acmicpc.net/problem/12872)
+- <img src="https://static.solved.ac/tier_small/20.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[13309. 트리](https://www.acmicpc.net/problem/13309)
 
 
 ### ⚙️ Normal
-- <img src="https://static.solved.ac/tier_small/13.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[16724. 피리 부는 사나이](https://www.acmicpc.net/problem/16724)
-- <img src="https://static.solved.ac/tier_small/12.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[2551. 두 대표 자연수](https://www.acmicpc.net/problem/2551)
-- <img src="https://static.solved.ac/tier_small/11.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[3019. 테트리스](https://www.acmicpc.net/problem/3019)
+- <img src="https://static.solved.ac/tier_small/13.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[1719. 택배](https://www.acmicpc.net/problem/1719)
+- <img src="https://static.solved.ac/tier_small/13.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[2406. 안정적인 네트워크](https://www.acmicpc.net/problem/2406)
+- <img src="https://static.solved.ac/tier_small/12.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[1956. 운동](https://www.acmicpc.net/problem/1956)
 
 
 ### 🍀 Easy
-- <img src="https://static.solved.ac/tier_small/8.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[16165. 걸그룹 마스터 준석이](https://www.acmicpc.net/problem/16165)
-- <img src="https://static.solved.ac/tier_small/8.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[7795. 먹을 것인가 먹힐 것인가](https://www.acmicpc.net/problem/7795)
+- <img src="https://static.solved.ac/tier_small/8.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[20116. 상자의 균형](https://www.acmicpc.net/problem/20116)
+- <img src="https://static.solved.ac/tier_small/7.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[28279. 덱 2](https://www.acmicpc.net/problem/28279)
 
 
 # 🔥 **Weekly 알고리즘 스터디**
