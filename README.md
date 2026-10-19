@@ -1,18 +1,18 @@
-# 🔥 이번 주 알고리즘 문제 (2026-10-12 업데이트)
+# 🔥 이번 주 알고리즘 문제 (2026-10-19 업데이트)
 
 ### 💥 Hard
-- <img src="https://static.solved.ac/tier_small/20.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[13309. 트리](https://www.acmicpc.net/problem/13309)
+- <img src="https://static.solved.ac/tier_small/19.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[1492. 합](https://www.acmicpc.net/problem/1492)
 
 
 ### ⚙️ Normal
-- <img src="https://static.solved.ac/tier_small/13.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[1719. 택배](https://www.acmicpc.net/problem/1719)
-- <img src="https://static.solved.ac/tier_small/13.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[2406. 안정적인 네트워크](https://www.acmicpc.net/problem/2406)
-- <img src="https://static.solved.ac/tier_small/12.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[1956. 운동](https://www.acmicpc.net/problem/1956)
+- <img src="https://static.solved.ac/tier_small/14.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[21944. 문제 추천 시스템 Version 2](https://www.acmicpc.net/problem/21944)
+- <img src="https://static.solved.ac/tier_small/12.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[2448. 별 찍기 - 11](https://www.acmicpc.net/problem/2448)
+- <img src="https://static.solved.ac/tier_small/12.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[21278. 호석이 두 마리 치킨](https://www.acmicpc.net/problem/21278)
 
 
 ### 🍀 Easy
-- <img src="https://static.solved.ac/tier_small/8.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[20116. 상자의 균형](https://www.acmicpc.net/problem/20116)
-- <img src="https://static.solved.ac/tier_small/7.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[28279. 덱 2](https://www.acmicpc.net/problem/28279)
+- <img src="https://static.solved.ac/tier_small/10.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[21600. 계단](https://www.acmicpc.net/problem/21600)
+- <img src="https://static.solved.ac/tier_small/9.svg" alt="level" width="15" style="margin-right:10px;">&nbsp;&nbsp;[10997. 별 찍기 - 22](https://www.acmicpc.net/problem/10997)
 
 
 # 🔥 **Weekly 알고리즘 스터디**
